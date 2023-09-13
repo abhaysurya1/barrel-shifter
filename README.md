@@ -15,6 +15,8 @@
 
 ![Barrel Process_Waveform](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/869e52a5-7e2f-4319-8545-dc4554252fbf)
 
+## DESIGN :
+
 ![Barrel_Schematic](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/e8abe6c5-2b8e-4169-a001-51cdf7c36d3e)
 
 ![Barrel_tb](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/2294846c-09c1-4c60-bc31-1c075c668e09)
