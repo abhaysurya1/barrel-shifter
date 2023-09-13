@@ -1,5 +1,5 @@
 
-# 8 BIT BARREL SHIFTER SIMULATION AND DESIGN USING CADENCE VIRTUOS.
+# 8 BIT BARREL SHIFTER SIMULATION AND DESIGN USING CADENCE VIRTUOSO.
 ![Capture](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/08a85e04-1887-4921-bb76-3c0091a2b629)
 
 ![Barrel Process_result](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/9413033c-8305-4670-b528-c56bc2db7d31)
