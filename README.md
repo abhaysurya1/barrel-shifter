@@ -7,4 +7,6 @@
 
 ![Barrel Process_Waveform](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/d96bb722-aad3-4d63-b50a-a0640f0e5dc3)
 
+# DESIGN USING CADENCE VIRTUOSO
+
 ![Barrel_Schematic](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/51b79541-4d9e-4fd0-ade9-338810ea8e06)
