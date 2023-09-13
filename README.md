@@ -7,6 +7,8 @@
 𝙸𝚝 𝚒𝚜 𝚞𝚜𝚎𝚍 𝚒𝚗 𝚝𝚑𝚎 𝙰𝚁𝙼 𝙿𝚛𝚘𝚌𝚎𝚜𝚜𝚘𝚛𝚜 𝚠𝚒𝚝𝚑 𝙰𝙻𝚄.
 ![Capture](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/08a85e04-1887-4921-bb76-3c0091a2b629)
 
+The implemented Shifter is a "Shift Right Logic circuit" which shifts the bits towards right by specified number of bits.
+
 ![Barrel Process_result](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/9413033c-8305-4670-b528-c56bc2db7d31)
 
 ![Barrel Process_Waveform](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/869e52a5-7e2f-4319-8545-dc4554252fbf)
