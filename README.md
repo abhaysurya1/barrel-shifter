@@ -9,3 +9,9 @@
 
 
 ![Barrel_Schematic](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/51b79541-4d9e-4fd0-ade9-338810ea8e06)
+
+![Barrel_tb](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/fd8b328e-6213-46ee-9a72-14d8dfda6658)
+
+![Barrel3](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/413e83ac-043c-40b6-982f-82bb9f77cb14)
+
+![Barrel](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/26326cf5-d5a4-45be-b9eb-6c90a04b32d4)
