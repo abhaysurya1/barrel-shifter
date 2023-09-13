@@ -5,9 +5,10 @@
 𝙸𝚝 𝚝𝚊𝚔𝚎𝚜 𝚊 𝚜𝚒𝚗𝚐𝚕𝚎 𝚌𝚢𝚌𝚕𝚎 𝚝𝚘 𝚜𝚑𝚒𝚏𝚝 𝚘𝚛 𝚛𝚘𝚝𝚊𝚝𝚎 𝚗 𝚋𝚒𝚝𝚜.
 𝙸𝚝 𝚒𝚜 𝚄𝚜𝚎𝚍 𝚒𝚗 𝚖𝚘𝚍𝚎𝚛𝚗 𝙼𝚒𝚌𝚛𝚘𝚙𝚛𝚘𝚌𝚎𝚜𝚜𝚘𝚛𝚜.
 𝙸𝚝 𝚒𝚜 𝚞𝚜𝚎𝚍 𝚒𝚗 𝚝𝚑𝚎 𝙰𝚁𝙼 𝙿𝚛𝚘𝚌𝚎𝚜𝚜𝚘𝚛𝚜 𝚠𝚒𝚝𝚑 𝙰𝙻𝚄.
+
 ![Capture](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/08a85e04-1887-4921-bb76-3c0091a2b629)
 
-##The implemented Shifter is a "Shift Right Logic circuit" which shifts the bits towards right by specified number of bits.
+The implemented Shifter is a "Shift Right Logic circuit" which shifts the bits towards right by specified number of bits.
 
 ![Barrel Process_result](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/9413033c-8305-4670-b528-c56bc2db7d31)
 
