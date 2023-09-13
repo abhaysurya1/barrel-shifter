@@ -27,8 +27,8 @@
 
 ## RESULTING WAVEFORM :
 
-### Input Bits (A7-A0) = 11111111
-### S2 S1 S0 = 111
-### Output = 00000001
+### - Input Bits (A7 - A0) = 11111111
+### - Select lines (S2 S1 S0) = 111
+### - Output (Y7 - Y0)= 00000001
 
 ![Barrel](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/02eb6279-04ff-4f23-89a7-e1aed00c6116)
