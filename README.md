@@ -1,11 +1,12 @@
 
 # 8 BIT BARREL SHIFTER SIMULATION AND DESIGN USING CADENCE VIRTUOSO.
 
-- 𝙱𝚊𝚛𝚛𝚎𝚕 𝚂𝚑𝚒𝚏𝚝𝚎𝚛 𝚒𝚜 𝚊 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚌𝚒𝚛𝚌𝚞𝚒𝚝 𝚝𝚑𝚊𝚝 𝚌𝚊𝚗 𝚜𝚑𝚒𝚏𝚝 𝚘𝚛 𝚛𝚘𝚝𝚊𝚝𝚎 𝚊 𝚍𝚊𝚝𝚊 𝚠𝚘𝚛𝚍 𝚋𝚢 𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚗𝚞𝚖𝚋𝚎𝚛 𝚘𝚏 𝚋𝚒𝚝𝚜 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝚞𝚜𝚒𝚗𝚐 𝚂𝚎𝚚𝚞𝚎𝚗𝚝𝚒𝚊𝚕 𝚕𝚘𝚐𝚒𝚌 𝚐𝚊𝚝𝚎𝚜 , 𝚝𝚑𝚊𝚝 𝚖𝚎𝚊𝚗𝚜 𝚋𝚊𝚛𝚛𝚎𝚕 𝚜𝚑𝚒𝚏𝚝𝚎𝚛 𝚒𝚜 𝚊 𝚌𝚘𝚖𝚋𝚒𝚗𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝚌𝚒𝚛𝚌𝚞𝚒𝚝.
-- 𝙸𝚝 𝚝𝚊𝚔𝚎𝚜 𝚊 𝚜𝚒𝚗𝚐𝚕𝚎 𝚌𝚢𝚌𝚕𝚎 𝚝𝚘 𝚜𝚑𝚒𝚏𝚝 𝚘𝚛 𝚛𝚘𝚝𝚊𝚝𝚎 𝚗 𝚋𝚒𝚝𝚜.
-- 𝙸𝚝 𝚒𝚜 𝚄𝚜𝚎𝚍 𝚒𝚗 𝚖𝚘𝚍𝚎𝚛𝚗 𝙼𝚒𝚌𝚛𝚘𝚙𝚛𝚘𝚌𝚎𝚜𝚜𝚘𝚛𝚜.
-- 𝙸𝚝 𝚒𝚜 𝚞𝚜𝚎𝚍 𝚒𝚗 𝚝𝚑𝚎 𝙰𝚁𝙼 𝙿𝚛𝚘𝚌𝚎𝚜𝚜𝚘𝚛𝚜 𝚠𝚒𝚝𝚑 𝙰𝙻𝚄.
-- 𝚃𝚑𝚎 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚎𝚍 𝚂𝚑𝚒𝚏𝚝𝚎𝚛 𝚒𝚜 𝚊 "𝚂𝚑𝚒𝚏𝚝 𝚁𝚒𝚐𝚑𝚝 𝙻𝚘𝚐𝚒𝚌 𝚌𝚒𝚛𝚌𝚞𝚒𝚝" 𝚠𝚑𝚒𝚌𝚑 𝚜𝚑𝚒𝚏𝚝𝚜 𝚝𝚑𝚎 𝚋𝚒𝚝𝚜 𝚝𝚘𝚠𝚊𝚛𝚍𝚜 𝚛𝚒𝚐𝚑𝚝 𝚋𝚢 𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚎𝚍 𝚗𝚞𝚖𝚋𝚎𝚛 𝚘𝚏 𝚋𝚒𝚝𝚜.
+- Barrel Shifter is a Combinational circuit that can shift or rotate a data word by specific number of bits without using Sequential logic gates.
+- It takes a single cycle to shift or rotate n bits.
+- It is used in modern microprocessors.
+- It is used in ARM processors with ALU.
+- The implemented Shifter is a “Shift Right Logic circuit ” which shifts the bits towards right by specified number of bits.
+
 
 ![Capture](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/08a85e04-1887-4921-bb76-3c0091a2b629)
 
