@@ -18,7 +18,8 @@
 
 ## DESIGN USING CADENCE VIRTUOSO :
 
-![Barrel_Schematic](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/e8abe6c5-2b8e-4169-a001-51cdf7c36d3e)
+![image](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/bc2e48c7-c922-4a80-ad1a-66bf6241e627)
+
 
 ## TEST BENCH :
 
