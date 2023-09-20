@@ -18,6 +18,8 @@
 
 ## DESIGN USING CADENCE VIRTUOSO :
 
+- Implementation of 2:1 Multiplexer.
+
 ![image](https://github.com/abhaysurya1/barrel-shifter/assets/144906236/bc2e48c7-c922-4a80-ad1a-66bf6241e627)
 
 
