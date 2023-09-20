@@ -1,7 +1,7 @@
 
 # 8 BIT BARREL SHIFTER SIMULATION AND DESIGN USING CADENCE VIRTUOSO.
 
-- Barrel Shifter is a Combinational circuit that can shift or rotate a data word by specific number of bits without using Sequential logic gates.
+- Barrel Shifter is a Combinational circuit that can shift or rotate a data word by specific number of bits in a single clock cycle.
 - It takes a single cycle to shift or rotate n bits.
 - It is used in modern microprocessors.
 - It is used in ARM processors with ALU.
