@@ -1,5 +1,5 @@
 
-# 8 BIT BARREL SHIFTER SIMULATION AND DESIGN USING CADENCE VIRTUOSO AND XCELIUM.
+# 8 BIT BARREL SHIFTER DESIGN AND SIMULATION USING CADENCE VIRTUOSO AND XCELIUM.
 
 - Barrel Shifter is a Combinational circuit that can shift or rotate a data word by specific number of bits in a single clock cycle.
 - It takes a single cycle to shift or rotate n bits.
